@@ -6,7 +6,6 @@ def main():
     dogYears = int(input("Dog years: "))
     humanYears = dogYears * 7
     print(f"Human years = {humanYears}")
-
     # End of your code for input here
 
 if __name__ == '__main__':
